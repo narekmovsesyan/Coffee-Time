@@ -2,6 +2,6 @@ Project allows you to set the time and receive at a given time reminder to mail,
 
 
 Project name: Coffee Time;
-Command For Run: php artisan email:reminder-each-minute 
+Command for run: php artisan email:reminder-each-minute 
 
 
